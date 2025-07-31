@@ -4,3 +4,7 @@
 <img src = "img/docker.png" width = 100%>
 
 <img src = "img/run_cont.png" width = 100%>
+
+<img src = "img/rm_cont.png" width = 100%>
+
+<img src = "img/rm_image.png" width = 100%>
